@@ -15,6 +15,12 @@ class Car {
     let numberOfWheels: Int
     var engineState: CarEngineState
     var doorState: CarDoorState
+    
+    
+    
+    
+    
+    
 
     init(color: UIColor, brand: String, numberOfDoors: Int, numberOfWheels: Int, engineState: CarEngineState, doorState: CarDoorState) {
         self.color = color
